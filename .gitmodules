@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
+  branch = master
 	url = git@github.com:sfqa-app/backend.git
 [submodule "frontend"]
 	path = frontend
+  branch = master
 	url = git@github.com:sfqa-app/frontend.git
